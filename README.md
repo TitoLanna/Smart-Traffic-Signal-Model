@@ -1,4 +1,3 @@
-Here is a GitHub README file for your Q-learning traffic light control simulation and environment animation project:
 
 ---
 
@@ -104,4 +103,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ---
 
-You can modify this README template to match your repository details and preferences. Make sure to include any additional setup or usage instructions if needed.
